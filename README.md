@@ -22,3 +22,5 @@ World of Spectrum<br />
 https://worldofspectrum.org<br />
 SpectNet IDE<br />
 https://dotneteer.github.io/spectnetide
+
+![alt text](https://github.com/RetrocompSi/ZX81/blob/master/ZX81.png)
