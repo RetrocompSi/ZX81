@@ -1,5 +1,5 @@
 Source:<br />
-Getting Acquainted With Your ZX81, Tim Hartnell, 1982, Creative Computing Press 
+Getting Acquainted With Your ZX81, Tim Hartnell, Creative Computing Press, 1982
 
 ![alt text](https://github.com/RetrocompSi/ZX81/blob/master/Projects/Pattern%20Master/pattern-master.jpg)
 
